@@ -1,0 +1,25 @@
+{
+   "title" : "MRS TUCKER'S STUFFED PEPPERS",
+   "ingredients" : [
+      { "s" : "1", "u" : "lb", "i" : "ground beef" },
+      { "s" : "1", "u" : "cup", "i" : "chopped onion" },
+      { "s" : "1", "u" : "clove", "i" : "garlic, chopped" },
+      { "s" : "2", "u" : "tsp", "i" : "chilli powder" },
+      { "s" : "1", "u" : "tsp", "i" : "salt" },
+      { "s" : "1/2", "u" : "tsp", "i" : "pepper" },
+      { "s" : "2", "u" : "cans", "i" : "condensed tomato soup" },
+      { "s" : "1/2", "u" : "lb", "i" : "sharp cheese, shreadded or sliced" },
+      { "s" : "1.5", "u" : "cup", "i" : "cooked converted rice" },
+      { "s" : "8", "u" : "count", "i" : "medium green peppers" }
+   ],
+   "directions": [
+     "Cook ground beef, onion, and garlic in skillet until meat is brown.  Add seasonings and tomato soup; cover and simmer for 10 minutes. Add cheese.  Cook slowly, strirring occasionally until cheese melts.  Stir in rice, cool.",
+     "Cut peppers in half lengthwise.  Remove membranes and seeds.  Cook in boiling salted water to cover until barely tender, about 3 minutes.  Drain and cool.",
+     "Place peppers on baking sheet or in shallow pan.  Stuff with rice mixture.",
+     "To freeze: Place peppers in freezer on tray until frozen.  Remove; wrap frozen peppers in foil or plastic wrap.  Seal, label, date, and return to freezer.  Recommended storage time: 2 to 3 months.", "Serves: 8"
+   ],
+   "servings": 8,
+   "authors" : [
+      "Harman, Mary Ann"
+   ]
+}
